@@ -20,9 +20,9 @@ Download the ECE Board Exam 2 dataset found on this link: bit.ly/ECEBoardExamDat
 
 # Problem #1 – Creating Required DataFrames
 
-## We will filter the dataset based on the conditions given and construct two new DataFrames: Instru and Mindy.
+We will filter the dataset based on the conditions given and construct two new DataFrames: Instru and Mindy.
 
-A. Instru = [“Name”, “GEAS”, “Electronics >70”]
+## A. Instru = [“Name”, “GEAS”, “Electronics >70”]
 
 Condition: Track = Instrumentation, Hometown = Luzon
 
@@ -62,7 +62,7 @@ Instru
 <img width="467" height="170" alt="image" src="https://github.com/user-attachments/assets/01737ae4-215f-442a-bcdb-b882679de3f1" />
 
 
-B. Mindy = [“Name”, “Track”, “Electronics”, “Average >=55”]
+## B. Mindy = [“Name”, “Track”, “Electronics”, “Average >=55”]
 
 Condition: Hometown = Mindanao, Gender = Female
 
