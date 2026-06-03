@@ -1,5 +1,4 @@
-## Metante_ProgrammingAssignment_4
-# EXPERIMENT 4 - Data Wrangling and Data Visualization - Metante
+## EXPERIMENT 4 - Data Wrangling and Data Visualization - Metante
 
 # I. Intended Learning Outcomes:
 1. To identify the codes and functions needed in cleaning and visualizing data
